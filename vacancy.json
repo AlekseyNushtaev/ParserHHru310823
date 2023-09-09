@@ -1,21 +1,21 @@
 {
-    "Python Developer": {
-        "company": "МойОфис",
-        "city": "Санкт-Петербург",
-        "salary": "Зарплата не указана",
-        "link": "https://spb.hh.ru/vacancy/79815763?from=vacancy_search_list&query=python"
+    "Наставник курсов по Python разработке": {
+        "company": "Skyeng",
+        "city": "Москва",
+        "salary": "от 100 000 до 150 000 ₽ на руки",
+        "link": "https://spb.hh.ru/vacancy/86076075?from=vacancy_search_list&query=python"
+    },
+    "Senior Python(django) разработчик/ junior Team Lead": {
+        "company": "ООО Аптрейд",
+        "city": "Москва",
+        "salary": "от 300 000 ₽ на руки",
+        "link": "https://spb.hh.ru/vacancy/86424068?from=vacancy_search_list&query=python"
     },
     "Программист Python": {
-        "company": "АО ОКЕНИТ",
-        "city": "Санкт-Петербург",
-        "salary": "Зарплата не указана",
-        "link": "https://spb.hh.ru/vacancy/85559687?from=vacancy_search_list&query=python"
-    },
-    "Python Backend developer": {
-        "company": "YADRO",
-        "city": "Санкт-Петербург",
-        "salary": "Зарплата не указана",
-        "link": "https://spb.hh.ru/vacancy/80038624?from=vacancy_search_list&query=python"
+        "company": "ООО АВ Софт",
+        "city": "Москва",
+        "salary": "до 300 000 ₽ до вычета налогов",
+        "link": "https://spb.hh.ru/vacancy/84001239?from=vacancy_search_list&query=python"
     },
     "Senior Python developer": {
         "company": "ООО ЛИГРЕС",
@@ -47,53 +47,17 @@
         "salary": "от 230 000 ₽ на руки",
         "link": "https://spb.hh.ru/vacancy/85750242?from=vacancy_search_list&query=python"
     },
-    "Remote Python Developer": {
-        "company": "Суровый байт",
-        "city": "Москва",
-        "salary": "Зарплата не указана",
-        "link": "https://spb.hh.ru/vacancy/86045617?from=vacancy_search_list&query=python"
-    },
     "Python программист (Наставник онлайн-курса по Python)": {
         "company": "Hexlet",
         "city": "Москва",
         "salary": "до 80 000 ₽ на руки",
         "link": "https://spb.hh.ru/vacancy/85867116?from=vacancy_search_list&query=python"
     },
-    "Senior Python Developer": {
-        "company": "ООО ЭСАНС",
+    "Программист Python (Middle, Senior)": {
+        "company": "Смарт Текнолоджис,ООО",
         "city": "Москва",
-        "salary": "Зарплата не указана",
-        "link": "https://spb.hh.ru/vacancy/84535553?from=vacancy_search_list&query=python"
-    },
-    "Full Stack разработчик (Python)": {
-        "company": "АО ФИНАМ",
-        "city": "Москва",
-        "salary": "Зарплата не указана",
-        "link": "https://spb.hh.ru/vacancy/86046878?from=vacancy_search_list&query=python"
-    },
-    "Middle developer Python (Django)": {
-        "company": "Группа Самолет",
-        "city": "Москва",
-        "salary": "Зарплата не указана",
-        "link": "https://spb.hh.ru/vacancy/84641807?from=vacancy_search_list&query=python"
-    },
-    "TeamLead / руководитель команды разработки (Python)": {
-        "company": "X5 Tech",
-        "city": "Москва",
-        "salary": "Зарплата не указана",
-        "link": "https://spb.hh.ru/vacancy/86054989?from=vacancy_search_list&query=python"
-    },
-    "Разработчик Python": {
-        "company": "Bell Integrator",
-        "city": "Москва",
-        "salary": "Зарплата не указана",
-        "link": "https://spb.hh.ru/vacancy/86026054?from=vacancy_search_list&query=python"
-    },
-    "Разработчик Full-stack (React, Python)": {
-        "company": "Bell Integrator",
-        "city": "Санкт-Петербург",
-        "salary": "Зарплата не указана",
-        "link": "https://spb.hh.ru/vacancy/86046757?from=vacancy_search_list&query=python"
+        "salary": "от 120 000 до 220 000 ₽ на руки",
+        "link": "https://spb.hh.ru/vacancy/85758073?from=vacancy_search_list&query=python"
     },
     "Python-разработчик": {
         "company": "Swordfish Security",
@@ -101,34 +65,52 @@
         "salary": "до 250 000 ₽ на руки",
         "link": "https://spb.hh.ru/vacancy/84024727?from=vacancy_search_list&query=python"
     },
+    "Python Developer": {
+        "company": "ROI Media (ООО Пилот)",
+        "city": "Санкт-Петербург",
+        "salary": "Зарплата не указана",
+        "link": "https://spb.hh.ru/vacancy/86456458?from=vacancy_search_list&query=python"
+    },
     "Python Разработчик": {
         "company": "Quiet Media",
         "city": "Москва",
         "salary": "Зарплата не указана",
         "link": "https://spb.hh.ru/vacancy/85120320?from=vacancy_search_list&query=python"
     },
-    "Заместитель руководителя отдела серверной разработки (Python)": {
-        "company": "Группа компаний Астра",
+    "Python разработчик": {
+        "company": "Decart IT-production",
         "city": "Москва",
-        "salary": "Зарплата не указана",
-        "link": "https://spb.hh.ru/vacancy/86046122?from=vacancy_search_list&query=python"
+        "salary": "от 170 000 до 265 000 ₽ на руки",
+        "link": "https://spb.hh.ru/vacancy/85989567?from=vacancy_search_list&query=python"
     },
     "Python developer": {
-        "company": "RocketData",
+        "company": "«РОСБАНК»",
         "city": "Москва",
         "salary": "Зарплата не указана",
-        "link": "https://spb.hh.ru/vacancy/85459167?from=vacancy_search_list&query=python"
+        "link": "https://spb.hh.ru/vacancy/85299799?from=vacancy_search_list&query=python"
     },
-    "Разработчик Python (Middle/Senior/Lead)": {
-        "company": "Eqvanta",
+    "Python разработчик junior": {
+        "company": "amoCRM",
         "city": "Москва",
-        "salary": "Зарплата не указана",
-        "link": "https://spb.hh.ru/vacancy/84525631?from=vacancy_search_list&query=python"
+        "salary": "от 30 000 до 60 000 ₽ на руки",
+        "link": "https://spb.hh.ru/vacancy/86288456?from=vacancy_search_list&query=python"
     },
-    "Python разработчик": {
-        "company": "Corporate Performance Systems",
+    "Python Backend Developer": {
+        "company": "Employcity",
         "city": "Москва",
         "salary": "Зарплата не указана",
-        "link": "https://spb.hh.ru/vacancy/86003974?from=vacancy_search_list&query=python"
+        "link": "https://spb.hh.ru/vacancy/85660586?from=vacancy_search_list&query=python"
+    },
+    "Middle Python backend developer": {
+        "company": "Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем",
+        "city": "Москва",
+        "salary": "от 110 000 до 180 000 ₽ до вычета налогов",
+        "link": "https://spb.hh.ru/vacancy/85833142?from=vacancy_search_list&query=python"
+    },
+    "Python Fullstack-разработчик": {
+        "company": "SberTech",
+        "city": "Москва",
+        "salary": "Зарплата не указана",
+        "link": "https://spb.hh.ru/vacancy/86462625?from=vacancy_search_list&query=python"
     }
 }
